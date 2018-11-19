@@ -1,0 +1,7 @@
+*.log
+*.temp
+/vendor
+.idea/*
+*.log
+*.apk
+.idea/compiler.xml
